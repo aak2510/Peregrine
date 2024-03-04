@@ -3,6 +3,12 @@
 This is the Challenge project that is due on 04/03/2024.
 The source code can be found at ChallengeProjectOne/Program.cs
 
+Log in details:
+Username: anish
+Password: Peregrine1
+
+Note that the password is case-sensitive with a capital "P".
+
 
 Project requirements:
 * Create a menu to log in with a username and password
