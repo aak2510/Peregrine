@@ -11,7 +11,7 @@ while (!inputSuccess)
     string? inputUsername = Console.ReadLine().ToLower().Trim();
     // Password IS case sensitive, so we don't change case
     Console.Write("Please enter your password: ");
-    string? inputPassword = Console.ReadLine().Trim(); ;
+    string? inputPassword = Console.ReadLine().Trim();
 
     // Only leave the log in page if BOTH username and password are the same
     if (inputUsername == username && inputPassword == password)
