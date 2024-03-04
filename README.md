@@ -1,11 +1,12 @@
 # ChallengeProjectOne
 
 This is the Challenge project that is due on 04/03/2024.
+The source code can be found at ChallengeProjectOne/Program.cs
+
 
 Project requirements:
 * Create a menu to log in with a username and password
 * Display menu options
-  
   * If the user doesn't enter something on the menu or is null then repeat the menu
   * take into consideration letter casing - uppercasing/lowercasing
   * passwords have casing, usernames don't (so convert to lowercase or something)
