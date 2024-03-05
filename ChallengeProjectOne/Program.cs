@@ -4,7 +4,11 @@ const string password = "Peregrine1";
 
 // Check that log-in credentials are correct, if they are then proceed, else repeat until they enter the correct username and password.
 bool inputSuccess = false;
-while (!inputSuccess)
+/* The log in menu will DEFINETLY be displayed once and we only need to check the condition after an input. 
+ * It doesn't make sense to check before the user has even had a change to input their credentials. 
+ * Thus refactoring this to a do while is a viable option.
+ */
+do
 {
     // Ask user for username, not case sensitive, so we convert to the same case
     Console.Write("Please enter your username: ");
@@ -24,14 +28,18 @@ while (!inputSuccess)
         // Message to let user know that input is incorrect
         Console.WriteLine("Username or password is incorrect, please try again.\n");
     }
-}
+} while (!inputSuccess);
 
 
 
 
 // menu choices using switch statement, within while loop to keep repeating menu until user selects exit menu
+/*
+ * Changed this to a do while as it is more suitable. Do while loop run at least once and this Menu needs to be display At least once after a successful log in attempt.
+ * Thus, this refactoring seems apprpriate.
+ */
 bool quitMenu = false;
-while (!quitMenu)
+do
 {
     //Single writeline statement as it is more efficient than printing multiple.
     Console.WriteLine("""
@@ -86,4 +94,4 @@ while (!quitMenu)
         Console.WriteLine("You have entered an invalid input, please try again. Returning to main menu...\n\n");
     }
 
-}
+} while (!quitMenu);
