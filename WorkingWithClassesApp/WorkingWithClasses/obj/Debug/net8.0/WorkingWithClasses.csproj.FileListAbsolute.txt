@@ -1,0 +1,15 @@
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\bin\Debug\net8.0\WorkingWithClasses.exe
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\bin\Debug\net8.0\WorkingWithClasses.deps.json
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\bin\Debug\net8.0\WorkingWithClasses.runtimeconfig.json
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\bin\Debug\net8.0\WorkingWithClasses.dll
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\bin\Debug\net8.0\WorkingWithClasses.pdb
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.AssemblyInfoInputs.cache
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.AssemblyInfo.cs
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.csproj.CoreCompileInputs.cache
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.sourcelink.json
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.dll
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\refint\WorkingWithClasses.dll
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.pdb
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\WorkingWithClasses.genruntimeconfig.cache
+D:\Coding space\GitHub_repo\Peregrine\WorkingWithClassesApp\WorkingWithClasses\obj\Debug\net8.0\ref\WorkingWithClasses.dll
