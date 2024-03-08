@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding space\\GitHub_repo\\Peregrine\\ChallengeProjectOneApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5542A530-E636-4AD4-90BE-98765A4F5E3B}|ChallengeProjectOne\\ChallengeProjectOne.csproj|d:\\coding space\\github_repo\\peregrine\\challengeprojectoneapp\\challengeprojectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542A530-E636-4AD4-90BE-98765A4F5E3B}|ChallengeProjectOne\\ChallengeProjectOne.csproj|solutionrelative:challengeprojectone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5542A530-E636-4AD4-90BE-98765A4F5E3B}|ChallengeProjectOne\\ChallengeProjectOne.csproj|d:\\coding space\\github_repo\\peregrine\\challengeprojectoneapp\\challengeprojectone\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5542A530-E636-4AD4-90BE-98765A4F5E3B}|ChallengeProjectOne\\ChallengeProjectOne.csproj|solutionrelative:challengeprojectone\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding space\\GitHub_repo\\Peregrine\\ChallengeProjectOneApp\\ChallengeProjectOne\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeProjectOne\\Program.cs",
+              "ToolTip": "D:\\Coding space\\GitHub_repo\\Peregrine\\ChallengeProjectOneApp\\ChallengeProjectOne\\Program.cs",
+              "RelativeToolTip": "ChallengeProjectOne\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowGUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:28:49.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding space\\GitHub_repo\\Peregrine\\ChallengeProjectOneApp\\ChallengeProjectOne\\User.cs",
+              "RelativeDocumentMoniker": "ChallengeProjectOne\\User.cs",
+              "ToolTip": "D:\\Coding space\\GitHub_repo\\Peregrine\\ChallengeProjectOneApp\\ChallengeProjectOne\\User.cs",
+              "RelativeToolTip": "ChallengeProjectOne\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T23:28:40.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

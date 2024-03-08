@@ -1,6 +1,11 @@
-﻿// Constant username and password, these are set and we don't want them to change throught the program
-const string username = "anish";
-const string password = "Peregrine1";
+﻿using ChallengeProjectOne;
+
+
+
+// Need to store in dictonary and then look up in there
+User primaryUser = new User("anish", "Peregrine1");
+
+
 
 // Check that log-in credentials are correct, if they are then proceed, else repeat until they enter the correct username and password.
 bool inputSuccess = false;
@@ -18,7 +23,7 @@ do
     string? inputPassword = Console.ReadLine().Trim();
 
     // Only leave the log in page if BOTH username and password are the same
-    if (inputUsername == username && inputPassword == password)
+    if (inputUsername == primaryUser.name && inputPassword == primaryUser.password)
     {
         inputSuccess = true;
         Console.WriteLine();
