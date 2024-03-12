@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace WorkingWithClasses
 {
@@ -64,7 +61,7 @@ namespace WorkingWithClasses
     class Animal  // Base class (parent) 
     {
         public string hi = "meow";
-        public void animalSound()
+        public virtual void animalSound()
         {
             Console.WriteLine("The animal makes a sound");
         }
@@ -72,7 +69,7 @@ namespace WorkingWithClasses
 
     class Pig : Animal  // Derived class (child) 
     {
-        public void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The pig says: wee wee");
         }
@@ -80,7 +77,7 @@ namespace WorkingWithClasses
 
     class Dog : Animal  // Derived class (child) 
     {
-        public void AnimalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The dog says: bow wow");
         }
@@ -91,16 +88,27 @@ namespace WorkingWithClasses
         static void Main(string[] args)
         {
             Animal myAnimal = new Animal();  // Create a Animal object
-            Pig myPig = new Pig();  // Create a Pig object
-            Dog myDog = new Dog();  // Create a Dog object
+            Animal myPig = new Pig();  // Create a Pig object
+            Animal myDog = new Dog();  // Create a Dog object
 
-            myAnimal.animalSound();
+            //myAnimal.animalSound();
             myPig.animalSound();
-            myDog.AnimalSound();
-            Console.WriteLine(myPig.hi);
-            Console.WriteLine(myDog.hi);
-            Console.WriteLine((myPig is Animal));
-            Console.WriteLine((myDog is Animal));
+            myDog.animalSound();
+            //Console.WriteLine(myPig.hi);
+            //Console.WriteLine(myDog.hi);
+            //Console.WriteLine((myPig is Animal));
+            //Console.WriteLine((myDog is Animal));
+
+
+            List<Animal> newList = new List<Animal>();
+            newList.Add(myAnimal);
+            newList.Add(myPig);
+            newList.Add(myDog);
+
+            foreach (Animal animal in newList)
+            {
+                animal.animalSound();
+            }
         }
     }
 

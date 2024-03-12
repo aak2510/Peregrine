@@ -1,0 +1,15 @@
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\bin\Debug\net8.0\ThingsToDoWithOOP.exe
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\bin\Debug\net8.0\ThingsToDoWithOOP.deps.json
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\bin\Debug\net8.0\ThingsToDoWithOOP.runtimeconfig.json
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\bin\Debug\net8.0\ThingsToDoWithOOP.dll
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\bin\Debug\net8.0\ThingsToDoWithOOP.pdb
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.AssemblyInfoInputs.cache
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.AssemblyInfo.cs
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.csproj.CoreCompileInputs.cache
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.sourcelink.json
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.dll
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\refint\ThingsToDoWithOOP.dll
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.pdb
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ThingsToDoWithOOP.genruntimeconfig.cache
+D:\Coding space\GitHub_repo\Peregrine\ThingsToDoWithOOPApp\ThingsToDoWithOOP\obj\Debug\net8.0\ref\ThingsToDoWithOOP.dll
