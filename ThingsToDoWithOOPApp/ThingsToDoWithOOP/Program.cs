@@ -17,5 +17,5 @@
 
 
 
-Animal animal = new Animal("Fred", 6, "Bark");
+//Animal animal = new Animal("Fred", 6, "Bark");
 Dog dog = new Dog("Oreo", 2, "Husky", true);
