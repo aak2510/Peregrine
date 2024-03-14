@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding space\\GitHub_repo\\Peregrine\\ThingsToDoWithOOPApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17872C15-FFBD-46EA-B361-EB3CA5CAC9CD}|ThingsToDoWithOOP\\ThingsToDoWithOOP.csproj|d:\\coding space\\github_repo\\peregrine\\thingstodowithoopapp\\thingstodowithoop\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872C15-FFBD-46EA-B361-EB3CA5CAC9CD}|ThingsToDoWithOOP\\ThingsToDoWithOOP.csproj|solutionrelative:thingstodowithoop\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\Coding space\\GitHub_repo\\Peregrine\\ThingsToDoWithOOPApp\\ThingsToDoWithOOP\\Cat.cs",
+              "RelativeDocumentMoniker": "ThingsToDoWithOOP\\Cat.cs",
+              "ToolTip": "D:\\Coding space\\GitHub_repo\\Peregrine\\ThingsToDoWithOOPApp\\ThingsToDoWithOOP\\Cat.cs",
+              "RelativeToolTip": "ThingsToDoWithOOP\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T10:02:49.145Z",
+              "EditorCaption": ""
             }
           ]
         }
