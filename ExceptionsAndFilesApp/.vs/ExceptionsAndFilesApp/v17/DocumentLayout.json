@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding space\\GitHub_repo\\Peregrine\\ExceptionsAndFilesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53890EBB-CFD1-42B6-9780-DD994C007B22}|ExceptionsAndFiles\\ExceptionsAndFiles.csproj|d:\\coding space\\github_repo\\peregrine\\exceptionsandfilesapp\\exceptionsandfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53890EBB-CFD1-42B6-9780-DD994C007B22}|ExceptionsAndFiles\\ExceptionsAndFiles.csproj|solutionrelative:exceptionsandfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53890EBB-CFD1-42B6-9780-DD994C007B22}|ExceptionsAndFiles\\ExceptionsAndFiles.csproj|d:\\coding space\\github_repo\\peregrine\\exceptionsandfilesapp\\exceptionsandfiles\\exceptionsandfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53890EBB-CFD1-42B6-9780-DD994C007B22}|ExceptionsAndFiles\\ExceptionsAndFiles.csproj|solutionrelative:exceptionsandfiles\\exceptionsandfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding space\\GitHub_repo\\Peregrine\\ExceptionsAndFilesApp\\ExceptionsAndFiles\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionsAndFiles\\Program.cs",
+              "ToolTip": "D:\\Coding space\\GitHub_repo\\Peregrine\\ExceptionsAndFilesApp\\ExceptionsAndFiles\\Program.cs",
+              "RelativeToolTip": "ExceptionsAndFiles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:41:33.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionsAndFiles",
+              "DocumentMoniker": "D:\\Coding space\\GitHub_repo\\Peregrine\\ExceptionsAndFilesApp\\ExceptionsAndFiles\\ExceptionsAndFiles.csproj",
+              "RelativeDocumentMoniker": "ExceptionsAndFiles\\ExceptionsAndFiles.csproj",
+              "ToolTip": "D:\\Coding space\\GitHub_repo\\Peregrine\\ExceptionsAndFilesApp\\ExceptionsAndFiles\\ExceptionsAndFiles.csproj",
+              "RelativeToolTip": "ExceptionsAndFiles\\ExceptionsAndFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T12:41:31.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
